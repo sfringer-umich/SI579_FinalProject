@@ -1,0 +1,11 @@
+.d-flex {
+    justify-content: space-evenly;
+}
+
+.popover-button {
+    border-radius: 10px;
+}
+
+.popover-overlay {
+    font-size:18px;
+}

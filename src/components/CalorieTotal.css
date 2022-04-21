@@ -1,0 +1,36 @@
+.progressBar {
+  width:75%;
+  margin-left: auto; 
+  margin-right:auto;
+}
+
+.progress {
+  height:32px;
+  font-size: 18px;
+}
+
+.cal_goal_h4 {
+  padding-top: 100px;
+  padding-bottom: 0;
+}
+
+.cal_goal {
+  float: left;
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.cal_goal_span {
+
+  display: block;
+  overflow: hidden;
+  padding: 0px 4px 50px 6px;
+}
+
+.class_goal_div {
+  width:15%;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+
